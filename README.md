@@ -1,3 +1,3 @@
 # CS-Machinelearning
 
-It's a homework about ML 
+It's about Machine Learning gas_ 
