@@ -1,3 +1,3 @@
 # CS-Machinelearning
 
-It's about Machine Learning gas_ 
+It's about Machine Learning gas consumption
